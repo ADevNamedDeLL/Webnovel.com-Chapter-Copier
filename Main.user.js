@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WebNovel Chapter Copier
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      2.0
 // @description  Copy all the lines in a fanfic chapter on www.webnovel.com with a single click
 // @author       ADevNamedDeLL
 // @match        https://www.webnovel.com/*
